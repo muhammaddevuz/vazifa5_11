@@ -1,7 +1,8 @@
 name: vazifa
 description: Simple Search package.
 version: 1.0.0
-repository: https://github.com/my_org/my_repo
+repository: https://github.com/muhammaddevuz/vazifa5_11
+homepage: https://github.com/muhammaddevuz/vazifa5_11
 
 environment:
   sdk: ^3.4.4
